@@ -21,3 +21,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiddere&show_icons=true&locale=en&layout=compact" alt="hiddere" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiddere&show_icons=true&locale=en" alt="hiddere" /></p>
+
+<p>&nbsp;<img align="left" src="https://media.discordapp.net/attachments/1028018552676028548/1082078384114384916/slider1.png?width=1025&height=320" alt="hiddere" /></p>
+<p>&nbsp;<img align="center" src="https://media.discordapp.net/attachments/1028018552676028548/1082078384319909928/slider3.png?width=1025&height=320" alt="hiddere" /></p>
+<p>&nbsp;<img align="left" src="https://media.discordapp.net/attachments/1028018552676028548/1082078384550584400/slider2.gif?width=1025&height=320" alt="hiddere" /></p>
