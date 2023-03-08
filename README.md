@@ -8,6 +8,21 @@
 
 <p align="left"> <a href="https://twitter.com/hiddere_" target="blank"><img src="https://img.shields.io/twitter/follow/hiddere_?logo=twitter&style=for-the-badge" alt="hiddere_" /></a> </p>
 
+<p align="left">
+<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
+<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+<img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
+</p>
+
+
+ [![Gmail Badge](https://img.shields.io/badge/-juandag274@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=juandag274@gmail.com)](mailto:juandag274@gmail.com)
+  
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hiddere_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiddere_" height="30" width="40" /></a>
