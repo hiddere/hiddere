@@ -1,4 +1,4 @@
-<p><img align="left" src="https://media.discordapp.net/attachments/1028018552676028548/1082081951621578863/banner_twitter.png?width=1025&height=340" alt="hiddere" /></p>
+<p><img align="left" src="https://media.discordapp.net/attachments/1028018552676028548/1083096413342285834/Fotoram.io.png?width=1025&height=342" alt="hiddere" /></p>
 <h1 align="center">Hi 👋, I'm Hiddere</h1>
 <h3 align="center">Sixth semester student of the Information Systems Technology program of the Antonio José Camacho University Institution, Cali north campus, with a high degree of belonging, innovation capabilities, teamwork, as well as an attitude of service and collaboration. Programming skills with Java language, JavaScript, PHP, HTML5, CSS, NodeJs, SQL database management, MySQL. Interface design and web design, High knowledge in the office automation part Word, Excel, Access, among others. Always available to learn and inquire about the situation.</h3>
 
