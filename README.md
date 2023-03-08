@@ -26,6 +26,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiddere&" alt="hiddere" /></p>
 
-<p>&nbsp;<img align="left" src="https://media.discordapp.net/attachments/1028018552676028548/1082078384114384916/slider1.png?width=1025&height=320" alt="hiddere" /></p>
-<p>&nbsp;<img align="center" src="https://media.discordapp.net/attachments/1028018552676028548/1082078384319909928/slider3.png?width=1025&height=320" alt="hiddere" /></p>
-<p>&nbsp;<img align="left" src="https://media.discordapp.net/attachments/1028018552676028548/1082078384550584400/slider2.gif?width=1025&height=320" alt="hiddere" /></p>
+<p><img align="left" src="https://media.discordapp.net/attachments/1028018552676028548/1082845567778033704/Sin_titulo_450_180_px_3.png" alt="hiddere" /></p>
+<p>&nbsp;<img align="center" src="https://media.discordapp.net/attachments/1028018552676028548/1082842049973321818/Sin_titulo_450_180_px.png" alt="hiddere" /></p>
+
